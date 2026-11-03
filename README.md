@@ -48,8 +48,9 @@
 ## Visit
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=nipunjoisa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F225723790%3Fv%3D4" alt="nipunjoisa social visual" />
+<img src="https://www.gitskins.com/api/section/social?username=nipunjoisa&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F225723790%3Fv%3D4&v=showcase-social-5" alt="Nipun Joisa social visual" />
 </p>
+
 
 <p align="center"><a href="https://github.com/nipunjoisa">GitHub</a></p>
 
