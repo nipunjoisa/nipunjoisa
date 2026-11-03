@@ -30,4 +30,4 @@
 
 <p align="center"><a href="https://github.com/nipunjoisa">GitHub</a></p>
 
-<p align="center"><sub>Nipun Joisa · Contribution city generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Nipun Joisa ·</a></sub></p>
