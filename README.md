@@ -8,9 +8,6 @@
 
 
 
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nipunjoisa&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## ⚔️ Tech Arsenal
 
@@ -30,7 +27,6 @@
 </div>
 
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nipunjoisa&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 
 
