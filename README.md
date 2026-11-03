@@ -25,6 +25,15 @@
 <img src="https://skillicons.dev/icons?i=python%2Cjavascript%2Ccss%2Chtml%2Ccpp%2Cbash%2Cdocker&perline=8&theme=dark" alt="Tech stack" />
 
 <br/><br/>
+
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+
+<img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&amp;labelColor=0d1117" alt="C++" /> <img src="https://img.shields.io/badge/Shell-89e051?style=for-the-badge&amp;labelColor=0d1117" alt="Shell" /> <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&amp;labelColor=0d1117" alt="PowerShell" /> <img src="https://img.shields.io/badge/Dockerfile-384d54?style=for-the-badge&amp;labelColor=0d1117" alt="Dockerfile" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nipunjoisa&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 ## The city I built this year
 
 <p align="center">
