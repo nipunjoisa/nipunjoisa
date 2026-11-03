@@ -52,4 +52,4 @@
 
 <p align="center"><a href="https://github.com/nipunjoisa">GitHub</a></p>
 
-<p align="center"><sub>Nipun Joisa ·</a></sub></p>
+<p align="center"><sub>Nipun Joisa </a></sub></p>
