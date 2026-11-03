@@ -2,6 +2,8 @@
   <img src="https://www.gitskins.com/api/section/hero?username=nipunjoisa&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F225723790%3Fv%3D4" alt="nipunjoisa hero visual" />
 </p>
 
+**Nipun Joisa** · Mern-stack/full-stack Engineer/ML Engineer
+
 ## The city I built this year
 
 <p align="center">
