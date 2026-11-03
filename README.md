@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=nipunjoisa&theme=neon&role=Software%20engineer%20/%20ML%20Engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Nipun Joisa profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=nipunjoisa&theme=green&role=Software%20engineer%20/%20ML%20Engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Nipun Joisa profile banner" />
 
 <br/>
 
