@@ -2,9 +2,7 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=nipunjoisa&theme=neon&role=Software%20engineer%20/%20ML%20Engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Nipun Joisa profile banner" />
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/wordmark?username=nipunjoisa&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F225723790%3Fv%3D4&v=showcase-wordmark-2" alt="Nipun Joisa wordmark visual" />
-</p>
+
 
 <br/>
 
