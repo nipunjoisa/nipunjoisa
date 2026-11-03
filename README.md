@@ -18,7 +18,13 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nipunjoisa&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
+## ⚔️ Tech Arsenal
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python%2Cjavascript%2Ccss%2Chtml%2Ccpp%2Cbash%2Cdocker&perline=8&theme=dark" alt="Tech stack" />
+
+<br/><br/>
 ## The city I built this year
 
 <p align="center">
