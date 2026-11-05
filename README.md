@@ -38,7 +38,7 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
-
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=nipunjoisa&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nipunjoisa's GitHub Streak" width="49%" />
 </p>
 
