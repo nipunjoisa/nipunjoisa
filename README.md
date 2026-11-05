@@ -44,11 +44,17 @@
   <img src="https://www.gitskins.com/api/section/projects?username=nipunjoisa&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F225723790%3Fv%3D4" alt="nipunjoisa projects visual" />
 </p>
 
-## Visit
+## 📫 Let's Connect
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/social?username=nipunjoisa&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F225723790%3Fv%3D4&v=showcase-social-5" alt="Nipun Joisa social visual" />
-</p>
+<div align="center">
+
+<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com) -->
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-nipunjoisa-1a1917?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nipunjoisa)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-nipun--joisa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-joisa-415a05355/)
+[![Email](https://img.shields.io/badge/✉️_Email-nipun.joisa11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipun.joisa11@gmail.com)
+[![Instagram](https://img.shields.io/badge/📷_Instagram-joisaa__11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joisaa_11)
+
+</div>
 
 
 <p align="center"><a href="https://github.com/nipunjoisa">GitHub</a></p>
