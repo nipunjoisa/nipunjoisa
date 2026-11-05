@@ -33,11 +33,13 @@
 
 </div>
 
+## 📊 GitHub Stats 
+
 <p align="center">
 <img src="https://www.gitskins.com/api/section/heatmap?username=nipunjoisa&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Nipun Joisa contribution Space Shooter" />
 </p>
 
-## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nipunjoisa&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nipunjoisa's GitHub Streak" width="79%" />
 </p>
@@ -46,6 +48,7 @@
 
 
 ## 🌌 Featured Projects
+
 <p align="center">
   <img src="https://www.gitskins.com/api/section/projects?username=nipunjoisa&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F225723790%3Fv%3D4" alt="nipunjoisa projects visual" />
 </p>
