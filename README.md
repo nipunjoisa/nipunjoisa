@@ -2,7 +2,7 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=nipunjoisa&theme=neon&role=Software%20engineer%20/%20ML%20Engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Nipun Joisa profile banner" />
 
-
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <br/>
 
