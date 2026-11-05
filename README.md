@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nipunjoisa&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nipunjoisa's GitHub Streak" width="79%" />
+  <img src="https://streak-stats.demolab.com/?user=nipunjoisa&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nipunjoisa's GitHub Streak" width="85%" />
 </p>
 
 
