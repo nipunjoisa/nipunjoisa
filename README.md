@@ -44,9 +44,7 @@
 </p>
 
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nipunjoisa&theme=nightowl&radius=10" alt="nipunjoisa's Activity Graph" />
-</p>
+
 
 ## 🌌 Featured Projects
 <p align="center">
