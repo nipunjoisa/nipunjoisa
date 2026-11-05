@@ -1,3 +1,7 @@
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Mern%20/%20full-stack%20engineer;%20ML%20engineer;Building%20with%20Python%20%C2%B7%20JavaScript%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+
 <p align="center">
 <img src="https://www.gitskins.com/api/section/wordmark?username=nipunjoisa&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F225723790%3Fv%3D4&v=showcase-wordmark-2" alt="Nipun Joisa wordmark visual" />
 </p>
@@ -6,7 +10,6 @@
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Mern%20/%20full-stack%20engineer;%20ML%20engineer;Building%20with%20Python%20%C2%B7%20JavaScript%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
 
 
