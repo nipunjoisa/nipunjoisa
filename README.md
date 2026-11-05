@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=nipunjoisa&theme=github-dark&style=jet&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F225723790%3Fv%3D4&v=showcase-heatmap-3" alt="Nipun Joisa heatmap visual" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=nipunjoisa&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Nipun Joisa contribution Space Shooter" />
 </p>
 
 
