@@ -43,12 +43,7 @@
   <img src="https://streak-stats.demolab.com/?user=nipunjoisa&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nipunjoisa's GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunjoisa&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nipunjoisa&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nipun Joisa's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nipunjoisa&theme=nightowl&radius=10" alt="nipunjoisa's Activity Graph" />
 </p>
