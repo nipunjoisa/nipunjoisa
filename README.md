@@ -58,10 +58,10 @@
 <div align="center">
 
 <!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com) -->
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-nipunjoisa-1a1917?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nipunjoisa)
+[![GitHub](https://img.shields.io/badge/_GitHub-nipunjoisa-1a1917?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nipunjoisa)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-nipun--joisa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-joisa-415a05355/)
-[![Email](https://img.shields.io/badge/✉️_Email-nipun.joisa11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipun.joisa11@gmail.com)
-[![Instagram](https://img.shields.io/badge/📷_Instagram-joisaa__11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joisaa_11)
+[![Email](https://img.shields.io/badge/_Email-nipun.joisa11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipun.joisa11@gmail.com)
+[![Instagram](https://img.shields.io/badge/_Instagram-joisaa__11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joisaa_11)
 
 </div>
 
