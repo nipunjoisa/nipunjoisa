@@ -20,7 +20,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python%2Cjavascript%2Ccss%2Chtml%2Ccpp%2Cbash%2Cdocker&perline=8&theme=dark" alt="Tech stack" />
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,ts,nextjs,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,jupyter" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,git,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript" />
+</div>
 
 <br/><br/>
 
