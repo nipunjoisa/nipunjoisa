@@ -19,13 +19,8 @@
 ## ⚔️ Tech Arsenal
 
 <div align="center">
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,ts,nextjs,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,jupyter" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,redis" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,git,github,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,antigravity,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java,mysql,docker" /><br>
 </div>
 
 <br/><br/>
